@@ -137,7 +137,7 @@ You'll probably see something like this:
 That's normal, **unless** you have defined a root route.
 ## ACTUALLY, you'll probably see something like this:
 
-<img width="599" src="https://gyazo.com/46a08819fc5c636ea24178c8b12a406c">
+<img width="599" alt="herokuapp_png_1_366x768_pixels" src="https://i.gyazo.com/46a08819fc5c636ea24178c8b12a406c.png">
 
 ### That's okay. Don't Panic. You've got this.
 

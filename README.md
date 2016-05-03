@@ -146,7 +146,13 @@ Paste the following into your terminal:
 git add config/secrets.yml -f
 ```
 Press enter. Good job!
-But wait, you need to commit the change. I think you've got this one on your own. Write a comment like "Secrets don't make sense" or whatever feels right.
+But wait, you need to commit the change. Write a comment like "Secrets don't make sense" or whatever feels right.
+
+```sh
+git add .
+
+git commit
+```
 
 Now you need to push these changes both to your master on both your repo and heroku.
 ```sh
